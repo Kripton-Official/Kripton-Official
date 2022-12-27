@@ -5,7 +5,7 @@ Hát mindig más, mivel a Kripton Project a közös fejleményünk. Ahhoz hogy n
 Aztán a Bot inaktív lett... le lett álítva.
 Majd 2022 Augusztusában úgy döntöttünk kéne valami nagyobb szabású projektbe vágnunk közösen. Mindkettem eléggé érdekeltek vagyunk az informatika terén, ráadásul más ágazatokban. 
 Úgyhogy ujraélesztettük a botot csináltunk egy weboldalt és egy Discord szervert meg egy YouTube csatornát. 
-Itt GitHubon azon Programjainhat/ weblapjainkat vagy másféle kódokat fogunk megosztani amelyeket nyilt forráskódúnak tervezünk. 
+Itt GitHubon azon Programjainkat/weblapjainkat vagy másféle kódokat fogunk megosztani amelyeket nyilt forráskódúnak tervezünk. 
 Valószínüleg csak ritkán fog fel kerülni esetleg egy egy tutoriál szembpontjából anyag de hát jobb ha van mintha nincs ;)
 További infókért csatlakozz a Discord szerverünkhöz
 

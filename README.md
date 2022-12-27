@@ -9,7 +9,7 @@ Itt GitHubon azon Programjainhat/ weblapjainkat vagy másféle kódokat fogunk m
 Valószínüleg csak ritkán fog fel kerülni esetleg egy egy tutoriál szembpontjából anyag de hát jobb ha van mintha nincs ;)
 További infókért csatlakozz a Discord szerverünkhöz
 
-<a href="https://www.youtube.com/@kriptonhungary" target="_blank">YouTube</a>
+<a href="https://www.youtube.com/@kriptonhungary" target="_blank" style="background:'#FF0000'">YouTube</a>
 
 <!---
 Kripton-Official/Kripton-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

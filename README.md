@@ -11,7 +11,11 @@ További infókért csatlakozz a Discord szerverünkhöz
 
 <a href="https://www.youtube.com/@kriptonhungary" target="_blank" style="background:'#FF0000'">YouTube</a>
 
-<a href="https://youtube.com/UltraX1">
+<a style="text-decoration: none;" href="https://www.youtube.com/@kriptonhungary">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Kripton-Official&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+
+<a href="https://www.youtube.com/@kriptonhungary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripton-Official&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 

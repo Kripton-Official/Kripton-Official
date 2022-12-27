@@ -9,7 +9,12 @@ Itt GitHubon azon Programjainhat/ weblapjainkat vagy másféle kódokat fogunk m
 Valószínüleg csak ritkán fog fel kerülni esetleg egy egy tutoriál szembpontjából anyag de hát jobb ha van mintha nincs ;)
 További infókért csatlakozz a Discord szerverünkhöz
 
-<a href="https://www.youtube.com/@kriptonhungary" target="_blank" style="background:'#FF0000'">YouTube</a>
+<p align="center">
+  <a href="x"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@kriptonhungary"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+# Aktivitás
 
 <a style="text-decoration: none;" href="https://www.youtube.com/@kriptonhungary">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Kripton-Official&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />

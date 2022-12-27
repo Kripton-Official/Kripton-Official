@@ -24,6 +24,8 @@ További infókért csatlakozz a Discord szerverünkhöz
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripton-Official&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
+<hr>
+
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kripton-Official" alt="visitor badge"/>
 </p>

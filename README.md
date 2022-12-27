@@ -11,6 +11,13 @@ További infókért csatlakozz a Discord szerverünkhöz
 
 <a href="https://www.youtube.com/@kriptonhungary" target="_blank" style="background:'#FF0000'">YouTube</a>
 
+<a href="https://youtube.com/UltraX1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripton-Official&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Kripton-Official" alt="visitor badge"/>
+</p>
 <!---
 Kripton-Official/Kripton-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
